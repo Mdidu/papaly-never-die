@@ -3,9 +3,7 @@ ___
 
 ### Pré-requis :
 - Fork-me
-- installer `vue-cli@3`
-- installer `vuejs`
-- installer `vue-routeur`
+- Faire le setup de votre projet en utilisant le framework js de votre choix ( vue.js , react, angular ou autre )
 
 ### Objectif :
 
@@ -37,12 +35,5 @@ ___
 > Faite le plus possible, en groupe ou seul.
 > Enjoy ! 
 
-Dans votre Readme.md :
-
-- Planning poker
-- Kanban (Trello, Taiga, Kanban flow...)
-- Carnet bord suivie (PPP dans un Google doc par ex) 
-
-Sur Simplonline :
-- Liens du site héberger (heroku, surge.sh)
-- Repository Github.
+Comme d'habitude, diagrammes, maquettes etc...
+Mise en prod et repo sur github
